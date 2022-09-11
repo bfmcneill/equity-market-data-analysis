@@ -6,4 +6,8 @@
 
 ## Architecture
 
-![architecture diagram](./architecture-diagram.png)
+![architecture diagram](./diagrams/architecture-diagram.png)
+
+## Project Meta
+
+github repo: [https://github.com/bfmcneill/equity-market-data-analysis](https://github.com/bfmcneill/equity-market-data-analysis)
