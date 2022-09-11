@@ -11,3 +11,10 @@
 ## Project Meta
 
 github repo: [https://github.com/bfmcneill/equity-market-data-analysis](https://github.com/bfmcneill/equity-market-data-analysis)
+
+## Change Log
+
+- 0.1.0
+  - architecture diagram
+  - README.md
+  - LICENSE.md
