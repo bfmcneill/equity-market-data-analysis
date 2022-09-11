@@ -6,7 +6,7 @@
 
 ## Architecture
 
-![architecture diagram](./diagrams/architecture-diagram.png)
+![architecture diagram](./diagrams/architecture-diagram-color.png)
 
 ## Project Meta
 
